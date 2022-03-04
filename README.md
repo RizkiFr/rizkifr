@@ -4,7 +4,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=Tokopedia-s-Slider-React-Native&theme=react)](https://github.com/rizkifr/Tokopedia-s-Slider-React-Native)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifr&layout=compact&theme=tokyonight&hide=tsql&langs_count=6)](https://github.com/rizkifr)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rizkifr)](https://github.com/rizkifr)
 <!--
 **RizkiFr/rizkifr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
