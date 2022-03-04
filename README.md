@@ -1,4 +1,5 @@
- ### Coffee Addict ☕
+ ## I want to be a director but I can't, so I drink a cup of coffee and watch a movie. ☕
+ 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=HaversineAlgorithm-ReactNative&theme=react)](https://github.com/rizkifr/HaversineAlgorithm-ReactNative)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=Tokopedia-s-Slider-React-Native&theme=react)](https://github.com/rizkifr/Tokopedia-s-Slider-React-Native)
