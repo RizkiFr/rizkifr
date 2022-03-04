@@ -1,6 +1,7 @@
  ### Coffee Addict ☕
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=HaversineAlgorithm-ReactNative)](https://github.com/rizkifr/PajajaranTrans-Mobile-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=HaversineAlgorithm-ReactNative)](https://github.com/rizkifr/HaversineAlgorithm-ReactNative)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=Tokopedia-s-Slider-React-Native)](https://github.com/rizkifr/Tokopedia-s-Slider-React-Native)
 <!--
 **RizkiFr/rizkifr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
