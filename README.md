@@ -1,7 +1,6 @@
  ### Coffee Addict ☕
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=HaversineAlgorithm-ReactNative)](https://github.com/rizkifr/HaversineAlgorithm-ReactNative)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkifr&repo=Tokopedia-s-Slider-React-Native)](https://github.com/rizkifr/Tokopedia-s-Slider-React-Native)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkifr&layout=compact)](https://github.com/anuraghazra)
